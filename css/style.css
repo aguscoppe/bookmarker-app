@@ -1,0 +1,28 @@
+body > h4 {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.jumbotron {
+  margin: 5em;
+}
+
+h3 {
+  text-align: center;
+}
+
+.submit {
+  text-align: center;
+}
+
+.btn-default {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  border: 1px solid #333;
+  border-radius: 10px;
+}
+
+.btn-danger {
+  padding: 2px 8px;
+  border-radius: 10px;
+}
